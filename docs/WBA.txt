@@ -1,0 +1,25 @@
+WBA(Work BreakDown  Agreement)
+GroupName:Tute02Team194.
+Group Members: 
+
+Student ID:31351830
+Name : Jin Bing Ong 
+Email : jong0051@student.monash.edu
+
+Student ID: 31258646
+Name : Mohamed Nabhaan Ali
+Email : mali0034@student.monash.edu
+
+The Work will be divided as 60 % Jin Ong and 40% Nabhaan Ali
+
+Work to be done:
+
+The UML Class diagram will be done by both Jin Ong and Nabhaan Ali
+The UML Interaction diagram will be done by mostly Jin Ong And 25% Nabhaan Ali
+Refinement of Both Diagrams will be done by both Jin Ong and Nabhaan Ali
+Design Rationale will be done by Both Jin Ong and Nabhaan Ali
+Coding for the game will be done 50% by both Jin Ong and Nabhaan Ali
+Recommendation for changes to the game engine will be done 50% by both Jin Ong and Nabhaan Ali
+ 
+Agreed by Nabhaan Ali: Yes, I agree to this WBA
+Agreed by Jin Ong : Yes, I agree to this WBA
